@@ -1,5 +1,5 @@
 # RandomPeopleStatistics
-- interact with the following API https://pipl.ir/v1/getPerson
+- interact with the following API https://pipl.ir/
 - call the API 50 times
 - Convert the received dictionnaries to objects
 - Store all objects in a local file
