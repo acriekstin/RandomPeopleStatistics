@@ -1,6 +1,6 @@
 # RandomPeopleStatistics
-- interact with the following API https://pipl.ir/
-- call the API 50 times
+- interact with the following API https://randomuser.me/
+- call the API 10 times
 - Convert the received dictionnaries to objects
 - Store all objects in a local file
 - Add option to use cached local file from previous run instead of querying the API 
