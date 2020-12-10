@@ -1,4 +1,5 @@
 # RandomPeopleStatistics
+Write python code for:
 - interact with the following API https://pipl.ir/
 - call the API 10 times
 - Convert the received dictionnaries to objects
@@ -7,4 +8,4 @@
 - Return statistics on the sample objects:
   - Average age of people
   - Top 5 oldest and top 5 youngest people
-- commit and push changes to git in own branch + PR
+
